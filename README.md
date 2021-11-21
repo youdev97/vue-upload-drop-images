@@ -12,10 +12,6 @@ Vue component that provides drag and drop images & videos upload with preview.
 * Append Medias
 * Remove all Medias
 
-## Example
-
-[DEMO](https://vueupload.yudax.dev)
-
 ## Install
 
 1. install the package:
