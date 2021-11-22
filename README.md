@@ -92,7 +92,7 @@ Script:
 
 ## Props
 
-### <b>Accept Video</b>
+### <b>acceptVideo</b>
 Type: `Boolean`
 
 Required: `false`
