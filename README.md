@@ -1,6 +1,7 @@
 # Vue Medias Upload Component
 Vue component that provides drag and drop images & videos upload with preview.
 
+![Npm](https://img.shields.io/npm/dm/vue-upload-drop-medias.svg)
 ![demo](./demo.gif)
 
 ## Features

@@ -1,6 +1,6 @@
 {
   "name": "vue-upload-drop-medias",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Vue component that provides drag and drop medias upload with preview",
   "main": "dist/vue-upload-drop-medias.vue",
   "repository": {
@@ -20,6 +20,5 @@
     "name": "youdev97"
   },
   "license": "MIT",
-  "homepage": "https://github.com/yudax42/vue-upload-drop-images",
   "dependencies": {}
 }
